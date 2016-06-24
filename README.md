@@ -7,6 +7,6 @@ By authors Iker Perez, James Pinchin, Michael Brown, Jesse Blum and Sarah Sharpl
 
 [Link to Journal website](http://www.sciencedirect.com/science/article/pii/S0957417416302846)
 
-## Licence
+## License
 
 All code licensed under the AGPLv3
